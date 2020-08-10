@@ -1,0 +1,68 @@
+#strawberry-title{
+    background-color:  rgba(226, 20, 1, 0.466);
+    font-size: 5em;
+}
+#strawberry-subtitle{
+    background-color: rgba(255, 255, 255, 0.534);
+    color: #E21301;
+    font-size: 2em;
+}
+
+#gourmetmuffins{
+    font-size: 5em;
+}
+
+#gourmetmuffinsp{
+    font-size: 2em;
+}
+
+#freshmuffins{
+    font-size: 5em;
+    color: #F0C740;
+}
+
+#freshmuffinsp{
+    color: #c6987e;
+    font-size: 2em;
+}
+
+#trynew{
+    font-size: 5em;
+    background-color:rgb(0, 132, 255,0.5);
+    color: white;
+}
+
+#trynewp{
+    font-size: 2em;
+    background-color: rgba(255, 255, 255, 0.534);
+    color: rgb(0, 132, 255);
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.headingNav{
+font-family: 'Fredericka the Great', cursive;
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: 100%;
+}
+
+.card-img-overlay h5{
+    font-family: 'Charm', cursive;
+
+}
+
+.card-img-overlay h1{
+    font-family: 'Charm', cursive;
+
+}
+
+.footer{
+    color: white;
+    background-color:#65462A;
+    margin-top: 5%;
+}
